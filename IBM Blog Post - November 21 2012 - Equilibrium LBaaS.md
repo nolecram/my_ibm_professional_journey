@@ -9,7 +9,7 @@
 
 ## Article Reference: Thoughts on Cloud
 
-![Thoughts on Cloud Banner](./assets/thoughts-on-cloud-banner.png)
+![Thoughts on Cloud Banner](./assets/images/thoughts-on-cloud-banner.png)
 
 *IBM Cloud Products and Services - Cloud computing conversations led by IBMers*
 
@@ -25,7 +25,7 @@ These are the compelling reasons behind the development of the [LBaaS](http://wi
 
 ## OpenStack LBaaS Architecture Overview
 
-![OpenStack LBaaS Architecture Diagram](./assets/openstack-lbaas-architecture.jpg)
+![OpenStack LBaaS Architecture Diagram](./assets/images/openstack-lbaas-architecture.jpg)
 
 *OpenStack LBaaS - Load Balancer Service Components*
 
@@ -43,7 +43,7 @@ I personally believe that the integration of [LBaaS](http://wiki.openstack.org/L
 
 ## About Marco Celon
 
-![Marco Celon](./assets/marco-celon-photo.jpg)
+![Marco Celon](./assets/images/marco-celon-photo.jpg)
 
 Marco is an IBM cloud delivery specialist and has been involved with several cloud proposals in SW Europe and in MEA. He is involved with a private cloud implementation (Infrastructure on Demand) in Australia. He recently relocated to Australia from Italy.
 

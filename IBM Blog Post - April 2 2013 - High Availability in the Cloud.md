@@ -9,7 +9,7 @@
 
 ## Article Reference: Thoughts on Cloud
 
-![Thoughts on Cloud Banner](./assets/thoughts-on-cloud-banner.png)
+![Thoughts on Cloud Banner](./assets/images/thoughts-on-cloud-banner.png)
 
 *IBM Cloud Products and Services - Cloud computing conversations led by IBMers*
 
@@ -27,7 +27,7 @@ To expediently address the concerns of HA in [Openstack](http://www.openstack.or
 
 ## OpenStack HA Architecture Overview
 
-![OpenStack HA Architecture Diagram](./assets/openstack-ha-architecture.jpg)
+![OpenStack HA Architecture Diagram](./assets/images/openstack-ha-architecture.jpg)
 
 *OpenStack HA - End-to-End User Deployments*
 
@@ -49,7 +49,7 @@ The request for HA functionalities is coming directly from the Enterprise adopte
 
 ## About Marco Celon
 
-![Marco Celon](./assets/marco-celon-photo.jpg)
+![Marco Celon](./assets/images/marco-celon-photo.jpg)
 
 Marco is a solutions consultant at Cisco. He is a former IBM cloud delivery specialist and is based in Australia.
 

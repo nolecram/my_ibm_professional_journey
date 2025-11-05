@@ -1,6 +1,6 @@
-# IBM Professional Activity - Blog Posts
+# IBM Professional Activity - Blog Posts and Redbooks
 
-This repository contains blog posts and professional articles from IBM cloud computing specialists.
+This repository contains blog posts, redbooks summaries, and professional articles from IBM cloud computing specialists.
 
 ## Contents
 
@@ -18,20 +18,31 @@ This repository contains blog posts and professional articles from IBM cloud com
   - Author: Marco Celon
   - An exploration of high availability solutions in OpenStack, covering platform services, Pacemaker/DRBD integration, and enterprise adoption considerations.
 
+### IBM Redbooks
+
+- **[Integrating Tivoli Products](./IBM%20Redbook%20-%20December%2010%202009%20-%20Integrating%20Tivoli%20Products.md)** - December 10, 2009
+  - Authors: Budi Darmawan, Andre Jenie, Christina L. Grimes, Christopher Frost, Giorgio Sommariva, Guilherme Steinberger Elias, Hossam A. Kalory, Hyun Kuk Moon, Jim Popovitch, Karim Badr, Marco Celon, Piotr A. Boetzel, Rodrigo Carvalho Giometti, Roger Turner
+  - A comprehensive guide on integrating IBM Tivoli system management products for seamless interoperability across IT operational scenarios.
+
 ## Assets
 
-The `assets` folder contains images referenced in the blog posts:
+The `assets` folder is organized into subdirectories:
 
+### Images (`assets/images/`)
 - `thoughts-on-cloud-banner.png` - Thoughts on Cloud header image
 - `openstack-folsom-architecture.png` - OpenStack Folsom architecture diagram
 - `openstack-ha-architecture.jpg` - OpenStack HA architecture diagram
 - `openstack-lbaas-architecture.jpg` - OpenStack LBaaS architecture diagram
+- `ibm-redbooks-banner.jpg` - IBM Redbooks header image
 - `marco-celon-photo.jpg` - Author photo
+
+### Files (`assets/files/`)
+- `integrating-tivoli-products.pdf` - IBM Redbook: Integrating Tivoli Products (SG247757)
 
 ## About
 
-This repository preserves professional articles and thought leadership content related to IBM cloud initiatives and OpenStack contributions.
+This repository preserves professional articles and thought leadership content related to IBM cloud initiatives, OpenStack contributions, and Tivoli system management solutions.
 
 ---
 
-*Originally published on Thoughts on Cloud - IBM Cloud Products and Services platform for cloud computing conversations led by IBMers*
+*Originally published on Thoughts on Cloud - IBM Cloud Products and Services platform for cloud computing conversations led by IBMers, and IBM Redbooks publications.*

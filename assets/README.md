@@ -1,13 +1,22 @@
 # Assets
 
-This folder contains images and media assets referenced in the blog posts.
+This folder contains images and files referenced in the blog posts and redbooks.
 
-## Files
+## Structure
 
+The assets folder is organized into two subdirectories:
+
+### images/
+Contains all image files used throughout the documentation:
 - `marco-celon-photo.jpg` - Author photo of Marco Celon
 - `thoughts-on-cloud-banner.png` - Thoughts on Cloud header image (IBM Cloud Products and Services)
 - `openstack-folsom-architecture.png` - OpenStack Folsom architecture diagram
 - `openstack-ha-architecture.jpg` - OpenStack HA architecture diagram
 - `openstack-lbaas-architecture.jpg` - OpenStack LBaaS architecture diagram
+- `ibm-redbooks-banner.jpg` - IBM Redbooks header image
 
-These images are used throughout the documentation and blog posts in this repository.
+### files/
+Contains downloadable documents and PDFs:
+- `integrating-tivoli-products.pdf` - IBM Redbook SG247757: Integrating Tivoli Products
+
+All assets are referenced from markdown files using relative paths: `./assets/images/` or `./assets/files/`

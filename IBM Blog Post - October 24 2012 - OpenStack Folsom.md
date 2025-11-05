@@ -9,7 +9,7 @@
 
 ## Article Reference: Thoughts on Cloud
 
-![Thoughts on Cloud Banner](./assets/thoughts-on-cloud-banner.png)
+![Thoughts on Cloud Banner](./assets/images/thoughts-on-cloud-banner.png)
 
 *IBM Cloud Products and Services - Cloud computing conversations led by IBMers*
 
@@ -27,7 +27,7 @@ As you can see from the [release notes](http://docs.openstack.org/folsom/content
 
 With these two new core [projects](http://www.openstack.org/projects/) the overall conceptual architecture has been modified:
 
-![OpenStack Folsom Architecture Diagram](./assets/openstack-folsom-architecture.png)
+![OpenStack Folsom Architecture Diagram](./assets/images/openstack-folsom-architecture.png)
 
 *OpenStack Folsom Architecture Overview*
 
@@ -65,7 +65,7 @@ To mention, finally, that [IBMers](https://www.openstack.org/community/members/)
 
 ## About Marco Celon
 
-![Marco Celon](./assets/marco-celon-photo.jpg)
+![Marco Celon](./assets/images/marco-celon-photo.jpg)
 
 Marco is an IBM cloud delivery specialist and has been involved with several cloud proposals in SW Europe and in MEA. He is involved with a private cloud implementation (Infrastructure on Demand) in Australia. He recently relocated to Australia from Italy.
 
