@@ -14,8 +14,6 @@ To the mentors, teammates, and clients encountered throughout this international
 
 ---
 
-This repository documents professional activities, technical publications, and certification achievements from IBM enterprise infrastructure and cloud computing initiatives during 2006-2012.
-
 <div align="center">
 
 ![IBM Professional Certifications Overview](./assets/images/ibm-professional-certifications-overview.png)
