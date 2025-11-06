@@ -1,13 +1,3 @@
----
-type: professional-development
-period: 2006-10 to 2013-03
-category: internal-training
-tags: [ibm, courses, leadership, cloud, security, virtualization]
-total_courses: 35
----
-
-# IBM Internal Professional Development Courses
-
 [← Back to README](../../README.md)
 
 Documentation of IBM Internal Professional Development Courses completed 2006-2013, covering strategic leadership, infrastructure management, cloud technologies, security, and business skills.

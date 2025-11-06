@@ -1,14 +1,3 @@
----
-type: blog-post
-date: 2013-04-02
-category: cloud-computing
-tags: [openstack, high-availability, pacemaker, drbd, cloud]
-author: Marco Celon
-original_url: http://thoughtsoncloud.com/index.php/2013/04/high-availability-in-the-cloud-an-openstack-approach
----
-
-# High Availability in the Cloud: An OpenStack Approach
-
 [← Back to README](../../README.md)
 
 **Author:** Marco Celon  

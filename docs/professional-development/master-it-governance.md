@@ -1,14 +1,3 @@
----
-type: academic-program
-period: 2010-01 to 2011-04
-category: master-degree
-tags: [it-governance, roma-tre, ibm, soa, itil, cobit]
-institution: Università degli Studi Roma Tre
-partners: [IBM Italia, Formit Servizi]
----
-
-# Master in IT Governance - IBM and Roma Tre University Collaboration
-
 [← Back to README](../../README.md)
 
 <div align="center">

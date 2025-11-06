@@ -1,14 +1,3 @@
----
-type: blog-post
-date: 2012-11-21
-category: cloud-computing
-tags: [openstack, lbaas, load-balancer, quantum, equilibrium]
-author: Marco Celon
-original_url: http://thoughtsoncloud.com/index.php/2012/11/equilibrium-project-lbaas-load-balancer-as-a-service-in-openstack
----
-
-# Equilibrium Project: LBaaS (Load Balancer as a Service) in OpenStack
-
 [← Back to README](../../README.md)
 
 **Author:** Marco Celon  

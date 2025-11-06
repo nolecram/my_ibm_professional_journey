@@ -1,15 +1,3 @@
----
-type: publication
-date: 2009-12-10
-updated: 2010-11-03
-category: ibm-redbook
-tags: [tivoli, integration, redbook, systems-management]
-document_id: SG247757
-co_authors: 13
----
-
-# IBM Redbook - December 10, 2009 - Integrating Tivoli Products
-
 [← Back to README](../../README.md)
 
 **Authors:** Budi Darmawan, Andre Jenie, Christina L. Grimes, Christopher Frost, Giorgio Sommariva, Guilherme Steinberger Elias, Hossam A. Kalory, Hyun Kuk Moon, Jim Popovitch, Karim Badr, Marco Celon, Piotr A. Boetzel, Rodrigo Carvalho Giometti, Roger Turner  

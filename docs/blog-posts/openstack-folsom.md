@@ -1,14 +1,3 @@
----
-type: blog-post
-date: 2012-10-24
-category: cloud-computing
-tags: [openstack, folsom, cloud, quantum, cinder]
-author: Marco Celon
-original_url: http://thoughtsoncloud.com/index.php/2012/10/openstack-release-folsom-first-thoughts
----
-
-# OpenStack release 'Folsom', first thoughts
-
 [← Back to README](../../README.md)
 
 **Author:** Marco Celon  

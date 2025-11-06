@@ -16,16 +16,6 @@ To the mentors, teammates, and clients encountered throughout this international
 
 This repository documents professional activities, technical publications, and certification achievements from IBM enterprise infrastructure and cloud computing initiatives during 2006-2012.
 
-## Quick Stats
-
-<div align="center">
-
-| 📚 Courses | 🎓 IBM Certs | 🏆 External Certs | 📝 Publications | 🌍 Locations | ⏱️ Duration |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **35** | **23** | **4** | **4** | **3** | **6 years** |
-
-</div>
-
 <div align="center">
 
 ![IBM Professional Certifications Overview](./assets/images/certifications/ibm-professional-certifications-overview.png)

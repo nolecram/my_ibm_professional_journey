@@ -1,13 +1,3 @@
----
-type: certification
-period: 2008-02 to 2012-03
-category: technical-sales
-tags: [ibm, sales, tivoli, information-management, lotus, industry-solutions]
-total_certifications: 12
----
-
-# IBM Technical Sales Professional Certificates
-
 [← Back to README](../../README.md)
 
 Documentation of IBM Technical Sales Professional certifications achieved 2008-2012, covering product knowledge and sales expertise across IBM's software portfolio including Tivoli, Lotus, Information Management, and Industry Solutions.
