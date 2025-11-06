@@ -1,6 +1,6 @@
-# IBM Professional Activity - Blog Posts and Redbooks
+# IBM Professional Activity - Blog Posts, Redbooks, and Professional Development
 
-This repository contains blog posts, redbooks summaries, and professional articles from IBM cloud computing specialists.
+This repository contains blog posts, redbooks summaries, professional development courses, and professional articles from IBM cloud computing specialists.
 
 ## Contents
 
@@ -24,6 +24,11 @@ This repository contains blog posts, redbooks summaries, and professional articl
   - Authors: Budi Darmawan, Andre Jenie, Christina L. Grimes, Christopher Frost, Giorgio Sommariva, Guilherme Steinberger Elias, Hossam A. Kalory, Hyun Kuk Moon, Jim Popovitch, Karim Badr, Marco Celon, Piotr A. Boetzel, Rodrigo Carvalho Giometti, Roger Turner
   - A comprehensive guide on integrating IBM Tivoli system management products for seamless interoperability across IT operational scenarios.
 
+### Professional Development
+
+- **[IBM Internal Professional Development Courses](./IBM%20Internal%20Professional%20Development%20Courses.md)**
+  - A comprehensive list of 36+ IBM Internal Professional Development Courses completed by Marco Celon, covering leadership, infrastructure, cloud technologies, security, and business skills.
+
 ## Assets
 
 The `assets` folder is organized into subdirectories:
@@ -41,7 +46,7 @@ The `assets` folder is organized into subdirectories:
 
 ## About
 
-This repository preserves professional articles and thought leadership content related to IBM cloud initiatives, OpenStack contributions, and Tivoli system management solutions.
+This repository preserves professional articles, thought leadership content, technical publications, and professional development achievements related to IBM cloud initiatives, OpenStack contributions, Tivoli system management solutions, and internal training programs.
 
 ---
 
