@@ -25,7 +25,11 @@ These are the compelling reasons behind the development of the [LBaaS](http://wi
 
 ## OpenStack LBaaS Architecture Overview
 
+<div style="text-align: center;">
+
 ![OpenStack LBaaS Architecture Diagram](./assets/images/openstack-lbaas-architecture.jpg)
+
+</div>
 
 *OpenStack LBaaS - Load Balancer Service Components*
 

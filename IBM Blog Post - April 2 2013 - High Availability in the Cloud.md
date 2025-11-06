@@ -27,7 +27,11 @@ To expediently address the concerns of HA in [Openstack](http://www.openstack.or
 
 ## OpenStack HA Architecture Overview
 
+<div style="text-align: center;">
+
 ![OpenStack HA Architecture Diagram](./assets/images/openstack-ha-architecture.jpg)
+
+</div>
 
 *OpenStack HA - End-to-End User Deployments*
 

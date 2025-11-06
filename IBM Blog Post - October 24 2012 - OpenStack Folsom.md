@@ -27,7 +27,11 @@ As you can see from the [release notes](http://docs.openstack.org/folsom/content
 
 With these two new core [projects](http://www.openstack.org/projects/) the overall conceptual architecture has been modified:
 
+<div style="text-align: center;">
+
 ![OpenStack Folsom Architecture Diagram](./assets/images/openstack-folsom-architecture.png)
+
+</div>
 
 *OpenStack Folsom Architecture Overview*
 
