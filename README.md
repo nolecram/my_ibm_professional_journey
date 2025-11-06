@@ -2,11 +2,20 @@
 
 This repository documents professional activities, technical publications, and certification achievements from IBM enterprise infrastructure and cloud computing initiatives during 2006-2013.
 
+<div align="center">
+
 ![IBM Professional Certifications Overview](./assets/images/ibm-professional-certifications-overview.png)
 
 *Comprehensive overview of IBM professional certifications and achievements*
 
+</div>
+
 ## Contents
+
+### Timeline
+
+- **[Comprehensive Timeline](./TIMELINE.md)** - October 2006 - April 2013
+  - Chronological documentation of all professional activities, certifications, courses, and publications with yearly breakdowns and statistics.
 
 ### Blog Posts
 
@@ -33,11 +42,11 @@ This repository documents professional activities, technical publications, and c
 - **[IBM IT Specialist Profession Certification](./IBM%20IT%20Specialist%20Profession%20Certification.md)** - December 14, 2009
   - Documentation of IBM IT Specialist Profession and The Open Group Master Certified IT Specialist dual certification, representing enterprise-level professional credentials during the late 2000s.
 
-- **[IBM Technical Sales Professional Certificates](./IBM%20Technical%20Sales%20Professional%20Certificates.md)** - February 2008 - March 2012
-  - Record of 12 IBM Technical Sales Professional certifications across Tivoli, Information Management, Lotus, and Industry Solutions product lines.
-
 - **[IBM Certification Program](./IBM%20Certification%20Program.md)** - April 2008 - February 2013
   - Documentation of 11 IBM Professional Certifications spanning Tivoli software, cloud infrastructure, and strategic technologies.
+
+- **[IBM Technical Sales Professional Certificates](./IBM%20Technical%20Sales%20Professional%20Certificates.md)** - February 2008 - March 2012
+  - Record of 12 IBM Technical Sales Professional certifications across Tivoli, Information Management, Lotus, and Industry Solutions product lines.
 
 - **[IBM Internal Professional Development Courses](./IBM%20Internal%20Professional%20Development%20Courses.md)** - October 2006 - March 2013
   - Record of 35 IBM Internal Professional Development Courses covering leadership, infrastructure, cloud technologies, security, and business skills.
