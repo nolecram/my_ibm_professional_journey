@@ -57,7 +57,7 @@ Strategic competencies in organizational leadership:
 **Industry Representatives:**
 - **Ing. Vincenzo Aquaro** (Formit Servizi)
 - **Dott.ssa Carmela Pierri** (Formit Servizi)
-- **Ing. Raffaele Belli** (IBM Italia)
+- **Ing. Raffaele Bella** (IBM Italia)
 
 ### Course Details
 
@@ -209,7 +209,7 @@ The Master's curriculum complemented concurrent IBM professional development:
 
 This Master's program represents gratitude to:
 - **Università Roma Tre Faculty:** Professors who brought academic rigor and industry insight to complex IT governance topics
-- **IBM Italia Mentors:** Ing. Raffaele Belli and other IBM professionals who contributed expertise and guidance
+- **IBM Italia Mentors:** Ing. Raffaele Bella and other IBM professionals who contributed expertise and guidance
 - **Formit Servizi:** Partnership in creating a world-class professional development program
 - **Fellow Students:** Peer learning and collaboration that enriched the educational experience
 
