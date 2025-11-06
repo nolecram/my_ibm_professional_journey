@@ -2,6 +2,14 @@
 
 A chronological documentation of professional development, certifications, publications, and technical contributions during IBM tenure (2006-2013).
 
+<div align="center">
+
+![IBM Employment Timeline](./assets/images/ibm-employment-timeline.png)
+
+*IBM Employment History: Italy (Aug 2006 - Jul 2010) | Dubai, UAE (Aug 2010 - Feb 2012) | Australia (Feb 2012 - Dec 2012)*
+
+</div>
+
 ---
 
 ## 2006
@@ -332,15 +340,37 @@ A chronological documentation of professional development, certifications, publi
 
 ## Geographic Context
 
-**Italy (2006-2012)**
-- Primary location during IBM tenure
-- Focus on SW Europe and MEA cloud proposals
-- Italian language courses (La comunicazione interpersonale, La negoziazione efficace)
+**IBM Italia S.p.A, Segrate (Milan), Italy (August 2006 - July 2010)**
+- Initial IBM tenure location
+- Sede Legale: Circonvallazione Idroscalo, C.P. 137, 20090 Segrate
+- Focus on EMEA (Europe, Middle East, Africa) region
+- Italian language professional development courses:
+  - La comunicazione interpersonale (Interpersonal Communication)
+  - La negoziazione efficace (Effective Negotiation)
+- EMEA certification programs (CERTIFEX)
+- Tivoli integration projects and Redbook co-authorship (2009)
+- Foundation period: SOA, Tivoli, and enterprise management focus
 
-**Australia (2012-2013)**
-- Relocated during this period
+**IBM Middle East FZ-LLC, Dubai, United Arab Emirates (August 2010 - February 2012)**
+- P.O. Box 27742, Dubai Internet City Emirate
+- Regional Middle East and Africa (MEA) operations
+- Cloud proposals and delivery for SW Europe and MEA markets
+- Industry-specific certifications:
+  - Telecommunications Industry Solutions
+  - Energy and Utilities Industry Solutions
+- Transition to cloud computing architecture
+- SmartCloud and cloud infrastructure focus
+
+**IBM Australia Limited, West Pennant Hills, NSW, Australia (February 2012 - December 2012)**
+- ABN 79 000 024 733
+- Postal Address: PO Box 297, West Pennant Hills NSW 2125
 - Private cloud implementation (Infrastructure on Demand)
-- Australian compliance courses (Employee WHS, Manual Handling)
+- OpenStack community contributions and blog posts (2012-2013)
+- Australian compliance training:
+  - Employee WHS (Workplace Health and Safety)
+  - Manual Handling
+- Intensive professional development period (22 courses in 2012)
+- Cloud computing and virtualization specialization
 
 ---
 

@@ -57,6 +57,7 @@ The `assets` folder is organized into subdirectories:
 
 ### Images (`assets/images/`)
 - `ibm-professional-certifications-overview.png` - Professional certifications overview
+- `ibm-employment-timeline.png` - IBM employment history across three regions (Italy, Dubai, Australia)
 - `thoughts-on-cloud-banner.png` - Thoughts on Cloud header image
 - `openstack-folsom-architecture.png` - OpenStack Folsom architecture diagram
 - `openstack-ha-architecture.jpg` - OpenStack HA architecture diagram
@@ -74,7 +75,7 @@ The `assets` folder is organized into subdirectories:
 
 ## About
 
-This repository archives professional activities from IBM's enterprise infrastructure and cloud computing initiatives (2006-2013), including technical publications, OpenStack community contributions, Tivoli system management documentation, and professional development records.
+This repository archives professional activities from IBM tenure spanning three geographic regions (2006-2012): IBM Italia (Italy, 2006-2010), IBM Middle East (Dubai, UAE, 2010-2012), and IBM Australia (2012). Documentation includes enterprise infrastructure projects, cloud computing initiatives, OpenStack community contributions, Tivoli system management work, and comprehensive professional development records.
 
 ---
 

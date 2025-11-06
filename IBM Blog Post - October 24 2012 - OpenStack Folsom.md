@@ -71,7 +71,7 @@ To mention, finally, that [IBMers](https://www.openstack.org/community/members/)
 
 ![Marco Celon](./assets/images/marco-celon-photo.jpg)
 
-Marco is an IBM cloud delivery specialist and has been involved with several cloud proposals in SW Europe and in MEA. He is involved with a private cloud implementation (Infrastructure on Demand) in Australia. He recently relocated to Australia from Italy.
+Marco is an IBM cloud delivery specialist based in Australia. During his IBM tenure (2006-2012), he worked across three regions: Italy (2006-2010), Dubai/Middle East (2010-2012), and Australia (2012), with involvement in cloud proposals for SW Europe, MEA, and APAC markets. He is currently engaged with private cloud implementations in the Australia/New Zealand region.
 
 ---
 

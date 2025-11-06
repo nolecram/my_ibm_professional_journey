@@ -55,7 +55,7 @@ The request for HA functionalities is coming directly from the Enterprise adopte
 
 ![Marco Celon](./assets/images/marco-celon-photo.jpg)
 
-Marco is a solutions consultant at Cisco. He is a former IBM cloud delivery specialist and is based in Australia.
+Marco is a solutions consultant at Cisco, based in Australia. He is a former IBM cloud delivery specialist (2006-2012) who worked across three regions during his IBM tenure: Italy (2006-2010), Dubai/Middle East (2010-2012), and Australia (2012).
 
 ---
 
