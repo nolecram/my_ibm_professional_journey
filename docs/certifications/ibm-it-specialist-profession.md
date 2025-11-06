@@ -6,7 +6,7 @@ Documentation of IBM IT Specialist Profession Certification and The Open Group M
 
 ## Certifications
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
 
 | IBM IT Specialist Profession | The Open Group Master Certified IT Specialist |
 |:-:|:-:|
