@@ -20,45 +20,43 @@ The following images showcase Marco Celon's IBM Internal Professional Developmen
 
 ---
 
-## Courses by Date
+## Courses Completed
 
-| Course Name | Dates |
-|---|---|
-| 2006 Strategy: Innovation Enabled by On Demand Business | October 18, 2006 - October 19, 2006 |
-| Innovation in Action | November 7, 2007 - November 7, 2007 |
-| Introducing the Value and Governance Model of Service-Oriented Architecture | February 26, 2008 - February 27, 2008 |
-| Technical Leadership Exchange | April 6, 2008 - April 9, 2008 |
-| IT Infrastructure Library (ITL) Foundations V2 | April 28, 2008 - April 29, 2008 |
-| La comunicazione interpersonale | October 2, 2008 - October 3, 2008 |
-| CVM Team Leader Workshop | November 28, 2008 - November 28, 2008 |
-| Proceedings Certification/Recertification EMEA (CERTIFEX) | March 2, 2009 - March 2, 2009 |
-| Professions Certification/Recertification EMEA (CERTIFEX) | March 2, 2009 - March 2, 2009 |
-| La negoziazione efficace | March 26, 2009 - March 27, 2009 |
-| Export Education for Software Group | November 10, 2009 - November 10, 2009 |
-| Digital IBMer: Resourcing - Sales Computing | May 6, 2012 - May 6, 2012 |
-| Secure Workstation Computing Guidance | May 21, 2012 - May 21, 2012 |
-| System Server Operations Assessment | May 28, 2012 - May 28, 2012 |
-| Core Training Assessment (Mandatory session) | May 28, 2012 - May 28, 2012 |
-| OI Server Virtualization and Consolidation Quickview | May 28, 2012 - May 28, 2012 |
-| Global Server Optimization and Integration Services | May 28, 2012 - May 28, 2012 |
-| Basic Measurement Concepts in Six Sigma | May 28, 2012 - May 28, 2012 |
-| Server Virtualization Certification Test | May 28, 2012 - May 28, 2012 |
-| Virtualization Manager | May 28, 2012 - May 28, 2012 |
-| Measurement and Management Technologies (MMT) | May 28, 2012 - May 28, 2012 |
-| IT Security/GARM Assessment | May 28, 2012 - May 28, 2012 |
-| Enterprise Data and Cloud Interaction | May 31, 2012 - May 31, 2012 |
-| IBM SmartCloud Provisioning 1.3 (SPCG) | May 31, 2012 - May 31, 2012 |
-| Selling Goals and Measurements | May 31, 2012 - May 31, 2012 |
-| Storage Virtualization | May 31, 2012 - May 31, 2012 |
-| Moving Infrastructure to the Cloud | May 31, 2012 - May 31, 2012 |
-| Virtualization Manager II 2.1 | May 31, 2012 - May 31, 2012 |
-| Providing Cloud Security | May 31, 2012 - May 31, 2012 |
-| GTS SARM Password General Security and Requirements at IBM | March 18, 2012 - March 18, 2012 |
-| Business Acumen | August 23, 2012 - August 23, 2012 |
-| OTS SARM - Secure IT Overhaul | August 29, 2012 - August 29, 2012 |
-| Employee WHS | September 6, 2012 |
-| Manual Handling | September 6, 2012 |
-| IBM SMG (2013) | March 6, 2013 |
+- 2006 Strategy: Innovation Enabled by On Demand Business
+- Innovation in Action
+- Introducing the Value and Governance Model of Service-Oriented Architecture
+- Technical Leadership Exchange
+- IT Infrastructure Library (ITL) Foundations V2
+- La comunicazione interpersonale
+- CVM Team Leader Workshop
+- Proceedings Certification/Recertification EMEA (CERTIFEX)
+- Professions Certification/Recertification EMEA (CERTIFEX)
+- La negoziazione efficace
+- Export Education for Software Group
+- Digital IBMer: Resourcing - Sales Computing
+- Secure Workstation Computing Guidance
+- System Server Operations Assessment
+- Core Training Assessment (Mandatory session)
+- OI Server Virtualization and Consolidation Quickview
+- Global Server Optimization and Integration Services
+- Basic Measurement Concepts in Six Sigma
+- Server Virtualization Certification Test
+- Virtualization Manager
+- Measurement and Management Technologies (MMT)
+- IT Security/GARM Assessment
+- Enterprise Data and Cloud Interaction
+- IBM SmartCloud Provisioning 1.3 (SPCG)
+- Selling Goals and Measurements
+- Storage Virtualization
+- Moving Infrastructure to the Cloud
+- Virtualization Manager II 2.1
+- Providing Cloud Security
+- GTS SARM Password General Security and Requirements at IBM
+- Business Acumen
+- OTS SARM - Secure IT Overhaul
+- Employee WHS
+- Manual Handling
+- IBM SMG (2013)
 
 ---
 
