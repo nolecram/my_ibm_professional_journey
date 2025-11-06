@@ -14,6 +14,9 @@ Contains all image files used throughout the documentation:
 - `openstack-ha-architecture.jpg` - OpenStack HA architecture diagram
 - `openstack-lbaas-architecture.jpg` - OpenStack LBaaS architecture diagram
 - `ibm-redbooks-banner.jpg` - IBM Redbooks header image
+- `ibm-internal-certs-page1.png` - IBM Internal Professional Development Certificates (Page 1)
+- `ibm-internal-certs-page2.png` - IBM Internal Professional Development Certificates (Page 2)
+- `ibm-internal-certs-page3.png` - IBM Internal Professional Development Certificates (Page 3)
 
 ### files/
 Contains downloadable documents and PDFs:
