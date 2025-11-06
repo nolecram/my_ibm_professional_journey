@@ -30,7 +30,7 @@ IBM's commitment to education extended beyond internal training, supporting acad
 
 To the mentors, teammates, and clients encountered throughout this international journey: your guidance, patience, and collaboration made this progression possible. This repository is a tribute to those experiences and the people who made them meaningful.
 
-*With fondness and gratitude for the IBM chapter—its people, its opportunities, and its enduring impact on professional development.*
+*Professional growth and IBM's technology evolution walking side by side—from proprietary infrastructure to cloud computing*
 
 ---
 
