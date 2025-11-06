@@ -1,10 +1,10 @@
 # IBM Internal Professional Development Courses
 
-**Marco Celon** has completed the following IBM Internal Professional Development Courses covering strategic leadership, infrastructure management, cloud technologies, security, and business skills.
+Documentation of IBM Internal Professional Development Courses completed 2006-2013, covering strategic leadership, infrastructure management, cloud technologies, security, and business skills.
 
 ## Professional Development Certificates
 
-The following images showcase Marco Celon's IBM Internal Professional Development Certifications:
+Certificate documentation from IBM Internal Professional Development program:
 
 ![IBM Internal Certifications - Page 1](./assets/images/ibm-internal-certs-page1.png)
 
@@ -62,7 +62,7 @@ The following images showcase Marco Celon's IBM Internal Professional Developmen
 
 ## Summary
 
-Marco Celon has successfully completed 35 IBM Internal Professional Development Courses covering a wide range of topics including:
+Record of 35 IBM Internal Professional Development Courses across multiple domains:
 
 - **Strategic Leadership:** Strategy, Innovation, Technical Leadership Exchange, Team Leadership
 - **Infrastructure & Virtualization:** IT Infrastructure Library, Server Virtualization, Cloud Technologies, System Management
@@ -72,8 +72,12 @@ Marco Celon has successfully completed 35 IBM Internal Professional Development 
 - **Business Skills:** Selling Goals, Business Measurements, Resourcing
 - **Mandatory Training:** Employee WHS, Manual Handling, Core Training Assessments
 
-These courses represent continuous professional development in IT infrastructure, cloud computing, virtualization, and business leadership spanning from 2006 to 2013.
+**Period:** October 2006 - March 2013  
+**Duration:** 6 years, 5 months  
+**Total Courses:** 35
+
+These courses document continuous professional development in IT infrastructure, cloud computing, virtualization, and business leadership during IBM tenure.
 
 ---
 
-*All courses completed by Marco Celon as part of IBM Professional Development Program*
+*IBM Professional Development Program documentation*

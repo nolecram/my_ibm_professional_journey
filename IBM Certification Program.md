@@ -1,6 +1,6 @@
 # IBM Certification Program
 
-**Marco Celon** has completed the following IBM Professional Certification Programs demonstrating expertise across multiple technology and business domains.
+Documentation of IBM Professional Certifications completed during 2008-2013 across multiple technology and business domains.
 
 ## Certification Program Overview
 
@@ -63,17 +63,17 @@
 
 ---
 
-## About Marco Celon's Certifications
+## Certification Domains
 
-Marco Celon's extensive IBM certification portfolio demonstrates deep expertise in:
+The certification portfolio covers the following technology areas:
 
 - **Enterprise Systems Management:** Tivoli network and service management solutions
 - **Cloud Infrastructure:** SmartCloud Control Desk and cloud computing architecture
 - **Business Transformation:** On Demand Business and Service-Oriented Architecture (SOA)
-- **Integration & Deployment:** Multiple advanced deployment professional certifications
+- **Integration & Deployment:** Advanced deployment professional certifications
 
-These certifications represent continuous professional development and mastery of IBM's core enterprise software platforms and cloud technologies.
+These certifications represent continuous professional development across IBM's enterprise software platforms and cloud technologies during the 2008-2013 period.
 
 ---
 
-*All certifications completed by Marco Celon as part of IBM Professional Certification Program*
+*IBM Professional Certification Program documentation*
