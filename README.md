@@ -29,6 +29,9 @@ This repository contains blog posts, redbooks summaries, professional developmen
 - **[IBM IT Specialist Profession Certification](./IBM%20IT%20Specialist%20Profession%20Certification.md)** - December 14, 2009
   - Marco Celon's achievement of the IBM IT Specialist Profession and The Open Group Master Certified IT Specialist designations, representing the pinnacle of professional recognition in enterprise IT during the late 2000s.
 
+- **[IBM Technical Sales Professional Certificates](./IBM%20Technical%20Sales%20Professional%20Certificates.md)** - February 2008 - March 2012
+  - A comprehensive collection of 12 IBM Technical Sales Professional certifications across Tivoli, Information Management, Lotus, and Industry Solutions, demonstrating deep product knowledge and sales expertise.
+
 - **[IBM Certification Program](./IBM%20Certification%20Program.md)**
   - A detailed listing of 11 IBM Professional Certifications earned by Marco Celon, spanning Tivoli software, cloud infrastructure, and strategic technologies (2008-2013).
 
