@@ -26,11 +26,14 @@ This repository contains blog posts, redbooks summaries, professional developmen
 
 ### Professional Development & Certifications
 
-- **[IBM Internal Professional Development Courses](./IBM%20Internal%20Professional%20Development%20Courses.md)**
-  - A comprehensive list of 36+ IBM Internal Professional Development Courses completed by Marco Celon, covering leadership, infrastructure, cloud technologies, security, and business skills.
+- **[IBM IT Specialist Profession Certification](./IBM%20IT%20Specialist%20Profession%20Certification.md)** - December 14, 2009
+  - Marco Celon's achievement of the IBM IT Specialist Profession and The Open Group Master Certified IT Specialist designations, representing the pinnacle of professional recognition in enterprise IT during the late 2000s.
 
 - **[IBM Certification Program](./IBM%20Certification%20Program.md)**
   - A detailed listing of 11 IBM Professional Certifications earned by Marco Celon, spanning Tivoli software, cloud infrastructure, and strategic technologies (2008-2013).
+
+- **[IBM Internal Professional Development Courses](./IBM%20Internal%20Professional%20Development%20Courses.md)**
+  - A comprehensive list of 35 IBM Internal Professional Development Courses completed by Marco Celon, covering leadership, infrastructure, cloud technologies, security, and business skills (2006-2013).
 
 ## Assets
 
@@ -43,6 +46,7 @@ The `assets` folder is organized into subdirectories:
 - `openstack-lbaas-architecture.jpg` - OpenStack LBaaS architecture diagram
 - `ibm-redbooks-banner.jpg` - IBM Redbooks header image
 - `ibm-certification-program-logos.png` - IBM Certification Program logos
+- `ibm-it-specialist-profession-cert.jpg` - IBM IT Specialist Profession and Open Group Master IT Specialist certificates
 - `marco-celon-photo.jpg` - Author photo
 - `ibm-internal-certs-page1.png` - IBM Internal Training Certificates (Page 1)
 - `ibm-internal-certs-page2.png` - IBM Internal Training Certificates (Page 2)

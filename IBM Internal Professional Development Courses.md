@@ -62,7 +62,7 @@ The following images showcase Marco Celon's IBM Internal Professional Developmen
 
 ## Summary
 
-Marco Celon has successfully completed 36+ IBM Internal Professional Development Courses covering a wide range of topics including:
+Marco Celon has successfully completed 35 IBM Internal Professional Development Courses covering a wide range of topics including:
 
 - **Strategic Leadership:** Strategy, Innovation, Technical Leadership Exchange, Team Leadership
 - **Infrastructure & Virtualization:** IT Infrastructure Library, Server Virtualization, Cloud Technologies, System Management
