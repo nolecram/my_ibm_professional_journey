@@ -24,6 +24,29 @@ This repository documents professional activities, technical publications, and c
 
 </div>
 
+---
+
+<div align="center">
+
+### Colleagues and Collaborations
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="./assets/images/ibm-colleagues-photo-1.jpg" alt="IBM Colleagues" width="90%">
+</td>
+<td width="50%" align="center">
+<img src="./assets/images/ibm-colleagues-photo-2.jpg" alt="IBM Team Collaboration" width="90%">
+</td>
+</tr>
+</table>
+
+*The heart of the IBM journey—exceptional colleagues and collaborative teams across three continents*
+
+</div>
+
+---
+
 ## Contents
 
 ### Timeline
@@ -81,6 +104,8 @@ The `assets` folder is organized into subdirectories:
 
 ### Images (`assets/images/`)
 - `ibm-professional-certifications-overview.png` - Professional certifications overview
+- `ibm-colleagues-photo-1.jpg` - IBM colleagues and team collaboration
+- `ibm-colleagues-photo-2.jpg` - IBM team members across international locations
 - `ibm-employment-timeline.png` - IBM employment history across three regions (Italy, Dubai, Australia)
 - `roma-tre-university-logo.png` - Università degli Studi Roma Tre logo
 - `master-itgov-certificate.png` - Master in IT Governance certificate (April 15, 2011)
