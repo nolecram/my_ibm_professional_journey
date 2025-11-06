@@ -1,6 +1,6 @@
-# IBM Professional Activity - Blog Posts, Redbooks, and Professional Development
+# IBM Professional Activity - Blog Posts, Redbooks, Professional Development, and Certifications
 
-This repository contains blog posts, redbooks summaries, professional development courses, and professional articles from IBM cloud computing specialists.
+This repository contains blog posts, redbooks summaries, professional development courses, IBM professional certifications, and professional articles from IBM cloud computing specialists.
 
 ## Contents
 
@@ -24,10 +24,13 @@ This repository contains blog posts, redbooks summaries, professional developmen
   - Authors: Budi Darmawan, Andre Jenie, Christina L. Grimes, Christopher Frost, Giorgio Sommariva, Guilherme Steinberger Elias, Hossam A. Kalory, Hyun Kuk Moon, Jim Popovitch, Karim Badr, Marco Celon, Piotr A. Boetzel, Rodrigo Carvalho Giometti, Roger Turner
   - A comprehensive guide on integrating IBM Tivoli system management products for seamless interoperability across IT operational scenarios.
 
-### Professional Development
+### Professional Development & Certifications
 
 - **[IBM Internal Professional Development Courses](./IBM%20Internal%20Professional%20Development%20Courses.md)**
   - A comprehensive list of 36+ IBM Internal Professional Development Courses completed by Marco Celon, covering leadership, infrastructure, cloud technologies, security, and business skills.
+
+- **[IBM Certification Program](./IBM%20Certification%20Program.md)**
+  - A detailed listing of 11 IBM Professional Certifications earned by Marco Celon, spanning Tivoli software, cloud infrastructure, and strategic technologies (2008-2013).
 
 ## Assets
 
@@ -39,7 +42,11 @@ The `assets` folder is organized into subdirectories:
 - `openstack-ha-architecture.jpg` - OpenStack HA architecture diagram
 - `openstack-lbaas-architecture.jpg` - OpenStack LBaaS architecture diagram
 - `ibm-redbooks-banner.jpg` - IBM Redbooks header image
+- `ibm-certification-program-logos.png` - IBM Certification Program logos
 - `marco-celon-photo.jpg` - Author photo
+- `ibm-internal-certs-page1.png` - IBM Internal Training Certificates (Page 1)
+- `ibm-internal-certs-page2.png` - IBM Internal Training Certificates (Page 2)
+- `ibm-internal-certs-page3.png` - IBM Internal Training Certificates (Page 3)
 
 ### Files (`assets/files/`)
 - `integrating-tivoli-products.pdf` - IBM Redbook: Integrating Tivoli Products (SG247757)
