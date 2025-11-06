@@ -22,9 +22,19 @@ This documentation serves as grateful recognition of that investment and the glo
 **IBM Internal Course**
 - 2006 Strategy: Innovation Enabled by On Demand Business
 
+### October 20, 2006
+**External Certification**
+- EXIN Service Management Foundation Certificate
+- Issuing Organization: EXIN (Examination Institute for Information Science)
+
 ---
 
 ## 2007
+
+### April 16, 2007
+**External Certification**
+- Check Point Certified Security Principles Associate (CCSPA)
+- Issuing Organization: Check Point Software Technologies
 
 ### November 7, 2007
 **IBM Internal Course**
@@ -59,6 +69,11 @@ This documentation serves as grateful recognition of that investment and the glo
 ### April 28-29, 2008
 **IBM Internal Course**
 - IT Infrastructure Library (ITL) Foundations V2
+
+### May 7, 2008
+**External Certification**
+- ITIL v3 Foundation Bridge Examination
+- Issuing Organization: APM Group
 
 ### May 26, 2008
 **IBM Certification**
@@ -103,9 +118,19 @@ This documentation serves as grateful recognition of that investment and the glo
 - Tivoli Enterprise Asset Management Sales Professional
 - Tivoli Automation Solution Sales Professional v2
 
+### June 26, 2009
+**External Certification**
+- ISO/IEC 20000 Foundation Certificate in IT Service Management
+- Issuing Organization: EXIN
+
 ### November 10, 2009
 **IBM Internal Course**
 - Export Education for Software Group
+
+### November 19, 2009
+**External Activity**
+- iSMF Conference Participation (Milan, Italy)
+- Organization: iSMF (IT Service Management Forum)
 
 ### December 10, 2009
 **IBM Redbook Published**
@@ -286,6 +311,11 @@ This documentation serves as grateful recognition of that investment and the glo
 - **IBM Redbook:** 1 co-authorship (December 2009)
 - **Blog Posts:** 3 technical articles (October 2012 - April 2013)
 
+**External Professional Certifications and Activities**
+- **Total:** 4 certifications + 2 participations
+- **Period:** October 2006 - November 2009
+- **Categories:** ITIL/ITSM Standards (3), Security (1), Conference/Events (2)
+
 ### Timeline by Activity Type
 
 **Certifications Peak Period:** 2008-2009 (7 certifications)  
@@ -295,17 +325,17 @@ This documentation serves as grateful recognition of that investment and the glo
 
 ### Yearly Breakdown
 
-| Year | Certifications | Sales Certificates | Internal Courses | Publications |
-|------|---------------|-------------------|------------------|--------------|
-| 2006 | 0 | 0 | 1 | 0 |
-| 2007 | 0 | 0 | 1 | 0 |
-| 2008 | 4 | 5 | 5 | 0 |
-| 2009 | 3 | 1 | 4 | 1 (Redbook) |
-| 2010 | 0 | 3 | 0 | 0 |
-| 2011 | 1 | 2 | 0 | 0 |
-| 2012 | 2 | 1 | 22 | 2 (Blog) |
-| 2013 | 1 | 0 | 2 | 1 (Blog) |
-| **Total** | **11** | **12** | **35** | **4** |
+| Year | Certifications | Sales Certificates | Internal Courses | Publications | External Activities |
+|------|---------------|-------------------|------------------|--------------|-------------------|
+| 2006 | 0 | 0 | 1 | 0 | 1 |
+| 2007 | 0 | 0 | 1 | 0 | 1 |
+| 2008 | 4 | 5 | 5 | 0 | 1 |
+| 2009 | 3 | 1 | 4 | 1 (Redbook) | 2 |
+| 2010 | 0 | 3 | 0 | 0 | 0 |
+| 2011 | 1 | 2 | 0 | 0 | 0 |
+| 2012 | 2 | 1 | 22 | 2 (Blog) | 0 |
+| 2013 | 1 | 0 | 2 | 1 (Blog) | 0 |
+| **Total** | **11** | **12** | **35** | **4** | **6** |
 
 ### Technology Focus Areas by Period
 

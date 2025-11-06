@@ -6,7 +6,7 @@ This repository chronicles a transformative professional journey with IBM spanni
 
 The journey represents more than certifications and technical achievements; it embodies the invaluable mentorship, collaboration, and knowledge-sharing that define IBM's culture. Working alongside talented colleagues across Europe, the Middle East, Africa, and Asia-Pacific regions, and engaging with diverse clients worldwide, shaped both technical expertise and professional perspective in profound ways. IBM's commitment to education extended beyond internal training, supporting academic pursuits through partnerships with institutions like Università degli Studi Roma Tre for advanced studies in IT Governance.
 
-This documentation serves as a grateful acknowledgment of IBM's investment in professional development—35 internal courses, 23 professional certifications, a Master's degree through university collaboration, technical publications, and countless learning experiences. Each certification earned, each course completed, and each project delivered represents the support of managers who encouraged growth, colleagues who shared knowledge, and customers who trusted expertise.
+This documentation serves as a grateful acknowledgment of IBM's investment in professional development—35 internal courses, 23 professional certifications, 4 external industry certifications, a Master's degree through university collaboration, technical publications, and countless learning experiences. Each certification earned, each course completed, and each project delivered represents the support of managers who encouraged growth, colleagues who shared knowledge, and customers who trusted expertise.
 
 To the mentors, teammates, and clients encountered throughout this international journey: your guidance, patience, and collaboration made this progression possible. This repository is a tribute to those experiences and the people who made them meaningful.
 
@@ -72,6 +72,9 @@ This repository documents professional activities, technical publications, and c
 - **[IBM Internal Professional Development Courses](./IBM%20Internal%20Professional%20Development%20Courses.md)** - October 2006 - March 2013
   - Record of 35 IBM Internal Professional Development Courses covering leadership, infrastructure, cloud technologies, security, and business skills.
 
+- **[IBM Other Professional Activities and Certifications](./IBM%20Other%20Professional%20Activities%20and%20Certifications.md)** - October 2006 - November 2009
+  - Documentation of external professional certifications and industry participation, including EXIN, ITIL v3, ISO/IEC 20000, Check Point security, and iSMF conference engagement.
+
 ## Assets
 
 The `assets` folder is organized into subdirectories:
@@ -92,6 +95,7 @@ The `assets` folder is organized into subdirectories:
 - `ibm-internal-certs-page1.png` - IBM Internal Training Certificates (Page 1)
 - `ibm-internal-certs-page2.png` - IBM Internal Training Certificates (Page 2)
 - `ibm-internal-certs-page3.png` - IBM Internal Training Certificates (Page 3)
+- `ibm-other-professional-activities.png` - External professional certifications and activities (EXIN, ITIL, ISO/IEC 20000, Check Point, iSMF)
 
 ### Files (`assets/files/`)
 - `integrating-tivoli-products.pdf` - IBM Redbook: Integrating Tivoli Products (SG247757)
@@ -104,10 +108,11 @@ This collection preserves the professional journey through IBM across three cont
 The repository includes:
 - **Academic Collaboration:** Master di II livello in IT Governance through IBM Italia and Università degli Studi Roma Tre partnership
 - **Technical Publications:** Blog posts and IBM Redbooks on enterprise infrastructure and cloud computing
-- **Professional Certifications:** 23 certifications across technical, sales, and professional domains
+- **Professional Certifications:** 23 IBM certifications and 4 external industry certifications across technical, sales, and professional domains
 - **Internal Development:** 35 courses spanning leadership, technology, and business skills
 - **OpenStack Contributions:** Community engagement during the emergence of open cloud platforms
 - **International Experience:** Work across EMEA, Middle East, Africa, and Asia-Pacific regions
+- **Industry Engagement:** Participation in ITSM conferences and professional communities
 
 This archive honors the colleagues who mentored, the customers who trusted, and the organization that invested in continuous growth. It stands as a testament to IBM's commitment to professional development and the global community that made this journey meaningful.
 
