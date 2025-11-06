@@ -1,4 +1,14 @@
+---
+type: professional-development
+period: 2006-10 to 2013-03
+category: internal-training
+tags: [ibm, courses, leadership, cloud, security, virtualization]
+total_courses: 35
+---
+
 # IBM Internal Professional Development Courses
+
+[← Back to README](../../README.md)
 
 Documentation of IBM Internal Professional Development Courses completed 2006-2013, covering strategic leadership, infrastructure management, cloud technologies, security, and business skills.
 
@@ -6,15 +16,15 @@ Documentation of IBM Internal Professional Development Courses completed 2006-20
 
 Certificate documentation from IBM Internal Professional Development program:
 
-![IBM Internal Certifications - Page 1](./assets/images/ibm-internal-certs-page1.png)
+![IBM Internal Certifications - Page 1](../../assets/images/certifications/ibm-internal-certs-page1.png)
 
 *IBM Internal Training Certificates (Page 1 of 3)*
 
-![IBM Internal Certifications - Page 2](./assets/images/ibm-internal-certs-page2.png)
+![IBM Internal Certifications - Page 2](../../assets/images/certifications/ibm-internal-certs-page2.png)
 
 *IBM Internal Training Certificates (Page 2 of 3)*
 
-![IBM Internal Certifications - Page 3](./assets/images/ibm-internal-certs-page3.png)
+![IBM Internal Certifications - Page 3](../../assets/images/certifications/ibm-internal-certs-page3.png)
 
 *IBM Internal Training Certificates (Page 3 of 3) - Including e-Learning certifications and Talent@IBM recognition*
 

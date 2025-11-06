@@ -1,15 +1,26 @@
+---
+type: blog-post
+date: 2012-11-21
+category: cloud-computing
+tags: [openstack, lbaas, load-balancer, quantum, equilibrium]
+author: Marco Celon
+original_url: http://thoughtsoncloud.com/index.php/2012/11/equilibrium-project-lbaas-load-balancer-as-a-service-in-openstack
+---
+
 # Equilibrium Project: LBaaS (Load Balancer as a Service) in OpenStack
+
+[← Back to README](../../README.md)
 
 **Author:** Marco Celon  
 **Published on:** November 21, 2012  
-**Time:** 9:22 AM  
+**Time:** 10:25 AM  
 **Web Address:** http://thoughtsoncloud.com/index.php/2012/11/equilibrium-project-lbaas-load-balancer-as-a-service-in-openstack
 
 ---
 
 ## Article Reference: Thoughts on Cloud
 
-![Thoughts on Cloud Banner](./assets/images/thoughts-on-cloud-banner.png)
+![Thoughts on Cloud Banner](../../assets/images/logos/thoughts-on-cloud-banner.png)
 
 *IBM Cloud Products and Services - Cloud computing conversations led by IBMers*
 
@@ -27,7 +38,7 @@ These are the compelling reasons behind the development of the [LBaaS](http://wi
 
 <div style="text-align: center;">
 
-![OpenStack LBaaS Architecture Diagram](./assets/images/openstack-lbaas-architecture.jpg)
+![OpenStack LBaaS Architecture Diagram](../../assets/images/architecture/openstack-lbaas-architecture.jpg)
 
 </div>
 
@@ -47,7 +58,7 @@ I personally believe that the integration of [LBaaS](http://wiki.openstack.org/L
 
 ## About Marco Celon
 
-![Marco Celon](./assets/images/marco-celon-photo.jpg)
+![Marco Celon](../../assets/images/colleagues/marco-celon-photo.jpg)
 
 Marco is an IBM cloud delivery specialist based in Australia. During his IBM tenure (2006-2012), he worked across three regions: Italy (2006-2010), Dubai/Middle East (2010-2012), and Australia (2012), with involvement in cloud proposals for SW Europe, MEA, and APAC markets. He is currently engaged with private cloud implementations in the Australia/New Zealand region.
 

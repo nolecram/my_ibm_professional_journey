@@ -1,10 +1,20 @@
+---
+type: certification
+period: 2006-10 to 2009-11
+category: external-professional
+tags: [exin, itil, iso-20000, check-point, ismf, itsm]
+total_activities: 6
+---
+
 # IBM Other Professional Activities and Certifications
+
+[← Back to README](../../README.md)
 
 Documentation of additional professional certifications, industry conferences, and external training activities completed during IBM tenure (2006-2011), complementing IBM's internal development programs with industry-recognized standards and community engagement.
 
 <div align="center">
 
-![IBM Other Professional Activities](./assets/images/ibm-other-professional-activities.png)
+![IBM Other Professional Activities](../../assets/images/certifications/ibm-other-professional-activities.png)
 
 *External Professional Certifications and Industry Participation - EXIN, ITIL, ISO/IEC 20000, Check Point, and iSMF*
 

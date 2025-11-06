@@ -1,10 +1,20 @@
+---
+type: certification
+period: 2008-04 to 2013-02
+category: ibm-professional
+tags: [ibm, certifications, tivoli, cloud, smartcloud]
+total_certifications: 11
+---
+
 # IBM Certification Program
+
+[← Back to README](../../README.md)
 
 Documentation of IBM Professional Certifications completed during 2008-2013 across multiple technology and business domains.
 
 ## Certification Program Overview
 
-![IBM Certification Program Logos](./assets/images/ibm-certification-program-logos.png)
+![IBM Certification Program Logos](../../assets/images/certifications/ibm-certification-program-logos.png)
 
 *IBM Professional Certification Program - Multiple technology and business specializations*
 

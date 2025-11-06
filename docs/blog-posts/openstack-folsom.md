@@ -1,4 +1,15 @@
+---
+type: blog-post
+date: 2012-10-24
+category: cloud-computing
+tags: [openstack, folsom, cloud, quantum, cinder]
+author: Marco Celon
+original_url: http://thoughtsoncloud.com/index.php/2012/10/openstack-release-folsom-first-thoughts
+---
+
 # OpenStack release 'Folsom', first thoughts
+
+[← Back to README](../../README.md)
 
 **Author:** Marco Celon  
 **Published on:** October 24, 2012  
@@ -9,7 +20,7 @@
 
 ## Article Reference: Thoughts on Cloud
 
-![Thoughts on Cloud Banner](./assets/images/thoughts-on-cloud-banner.png)
+![Thoughts on Cloud Banner](../../assets/images/logos/thoughts-on-cloud-banner.png)
 
 *IBM Cloud Products and Services - Cloud computing conversations led by IBMers*
 
@@ -29,7 +40,7 @@ With these two new core [projects](http://www.openstack.org/projects/) the overa
 
 <div style="text-align: center;">
 
-![OpenStack Folsom Architecture Diagram](./assets/images/openstack-folsom-architecture.png)
+![OpenStack Folsom Architecture Diagram](../../assets/images/architecture/openstack-folsom-architecture.png)
 
 </div>
 
@@ -69,7 +80,7 @@ To mention, finally, that [IBMers](https://www.openstack.org/community/members/)
 
 ## About Marco Celon
 
-![Marco Celon](./assets/images/marco-celon-photo.jpg)
+![Marco Celon](../../assets/images/colleagues/marco-celon-photo.jpg)
 
 Marco is an IBM cloud delivery specialist based in Australia. During his IBM tenure (2006-2012), he worked across three regions: Italy (2006-2010), Dubai/Middle East (2010-2012), and Australia (2012), with involvement in cloud proposals for SW Europe, MEA, and APAC markets. He is currently engaged with private cloud implementations in the Australia/New Zealand region.
 

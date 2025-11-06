@@ -1,4 +1,14 @@
+---
+type: certification
+date: 2009-12-14
+category: professional-credentials
+tags: [ibm, it-specialist, open-group, master-certified]
+organizations: [IBM, The Open Group]
+---
+
 # IBM IT Specialist Profession Certification
+
+[← Back to README](../../README.md)
 
 Documentation of IBM IT Specialist Profession Certification and The Open Group Master Certified IT Specialist designation achieved December 14, 2009. These credentials represented enterprise-level professional recognition in the IT industry during the late 2000s.
 
@@ -6,7 +16,7 @@ Documentation of IBM IT Specialist Profession Certification and The Open Group M
 
 ## The IBM IT Specialist Profession
 
-![IBM IT Specialist Profession Certificate](./assets/images/ibm-it-specialist-profession-cert.jpg)
+![IBM IT Specialist Profession Certificate](../../assets/images/certifications/ibm-it-specialist-profession-cert.jpg)
 
 *IBM Certified Professional - IT Specialist Profession (December 14, 2009)*
 

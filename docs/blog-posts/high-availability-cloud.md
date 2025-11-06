@@ -1,15 +1,26 @@
+---
+type: blog-post
+date: 2013-04-02
+category: cloud-computing
+tags: [openstack, high-availability, pacemaker, drbd, cloud]
+author: Marco Celon
+original_url: http://thoughtsoncloud.com/index.php/2013/04/high-availability-in-the-cloud-an-openstack-approach
+---
+
 # High Availability in the Cloud: An OpenStack Approach
+
+[← Back to README](../../README.md)
 
 **Author:** Marco Celon  
 **Published on:** April 2, 2013  
-**Time:** 11:51 AM  
+**Time:** 3:05 PM  
 **Web Address:** http://thoughtsoncloud.com/index.php/2013/04/high-availability-in-the-cloud-an-openstack-approach
 
 ---
 
 ## Article Reference: Thoughts on Cloud
 
-![Thoughts on Cloud Banner](./assets/images/thoughts-on-cloud-banner.png)
+![Thoughts on Cloud Banner](../../assets/images/logos/thoughts-on-cloud-banner.png)
 
 *IBM Cloud Products and Services - Cloud computing conversations led by IBMers*
 
@@ -29,7 +40,7 @@ To expediently address the concerns of HA in [Openstack](http://www.openstack.or
 
 <div style="text-align: center;">
 
-![OpenStack HA Architecture Diagram](./assets/images/openstack-ha-architecture.jpg)
+![OpenStack HA Architecture Diagram](../../assets/images/architecture/openstack-ha-architecture.jpg)
 
 </div>
 
@@ -53,7 +64,7 @@ The request for HA functionalities is coming directly from the Enterprise adopte
 
 ## About Marco Celon
 
-![Marco Celon](./assets/images/marco-celon-photo.jpg)
+![Marco Celon](../../assets/images/colleagues/marco-celon-photo.jpg)
 
 Marco is a solutions consultant at Cisco, based in Australia. He is a former IBM cloud delivery specialist (2006-2012) who worked across three regions during his IBM tenure: Italy (2006-2010), Dubai/Middle East (2010-2012), and Australia (2012).
 

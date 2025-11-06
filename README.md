@@ -16,9 +16,19 @@ To the mentors, teammates, and clients encountered throughout this international
 
 This repository documents professional activities, technical publications, and certification achievements from IBM enterprise infrastructure and cloud computing initiatives during 2006-2012.
 
+## Quick Stats
+
 <div align="center">
 
-![IBM Professional Certifications Overview](./assets/images/ibm-professional-certifications-overview.png)
+| 📚 Courses | 🎓 IBM Certs | 🏆 External Certs | 📝 Publications | 🌍 Locations | ⏱️ Duration |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **35** | **23** | **4** | **4** | **3** | **6 years** |
+
+</div>
+
+<div align="center">
+
+![IBM Professional Certifications Overview](./assets/images/certifications/ibm-professional-certifications-overview.png)
 
 *Comprehensive overview of IBM professional certifications and achievements*
 
@@ -33,10 +43,10 @@ This repository documents professional activities, technical publications, and c
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="./assets/images/ibm-colleagues-photo-1.jpg" alt="IBM Colleagues" width="90%">
+<img src="./assets/images/colleagues/ibm-colleagues-photo-1.jpg" alt="IBM Colleagues" width="90%">
 </td>
 <td width="50%" align="center">
-<img src="./assets/images/ibm-colleagues-photo-2.jpg" alt="IBM Team Collaboration" width="90%">
+<img src="./assets/images/colleagues/ibm-colleagues-photo-2.jpg" alt="IBM Team Collaboration" width="90%">
 </td>
 </tr>
 </table>
@@ -56,74 +66,88 @@ This repository documents professional activities, technical publications, and c
 
 ### Blog Posts
 
-- **[OpenStack release 'Folsom', first thoughts](./IBM%20Blog%20Post%20-%20October%2024%202012%20-%20OpenStack%20Folsom.md)** - October 24, 2012
+- **[OpenStack release 'Folsom', first thoughts](./docs/blog-posts/openstack-folsom.md)** - October 24, 2012
   - Author: Marco Celon
   - A comprehensive overview of the OpenStack Folsom release, including new projects (Quantum and Cinder), architectural changes, and IBM's contributions to the project.
 
-- **[Equilibrium Project: LBaaS (Load Balancer as a Service) in OpenStack](./IBM%20Blog%20Post%20-%20November%2021%202012%20-%20Equilibrium%20LBaaS.md)** - November 21, 2012
+- **[Equilibrium Project: LBaaS (Load Balancer as a Service) in OpenStack](./docs/blog-posts/equilibrium-lbaas.md)** - November 21, 2012
   - Author: Marco Celon
   - An overview of the Load Balancer as a Service (LBaaS) project for OpenStack, covering service architecture, driver support, and integration with Quantum.
 
-- **[High Availability in the Cloud: An OpenStack Approach](./IBM%20Blog%20Post%20-%20April%202%202013%20-%20High%20Availability%20in%20the%20Cloud.md)** - April 2, 2013
+- **[High Availability in the Cloud: An OpenStack Approach](./docs/blog-posts/high-availability-cloud.md)** - April 2, 2013
   - Author: Marco Celon
   - An exploration of high availability solutions in OpenStack, covering platform services, Pacemaker/DRBD integration, and enterprise adoption considerations.
 
 ### IBM Redbooks
 
-- **[Integrating Tivoli Products](./IBM%20Redbook%20-%20December%2010%202009%20-%20Integrating%20Tivoli%20Products.md)** - December 10, 2009
+- **[Integrating Tivoli Products](./docs/publications/redbook-integrating-tivoli-products.md)** - December 10, 2009
   - Authors: Budi Darmawan, Andre Jenie, Christina L. Grimes, Christopher Frost, Giorgio Sommariva, Guilherme Steinberger Elias, Hossam A. Kalory, Hyun Kuk Moon, Jim Popovitch, Karim Badr, Marco Celon, Piotr A. Boetzel, Rodrigo Carvalho Giometti, Roger Turner
   - A comprehensive guide on integrating IBM Tivoli system management products for seamless interoperability across IT operational scenarios.
 
 ### Academic Collaboration
 
-- **[IBM and Roma Tre University - Master in IT Governance](./IBM%20and%20Roma%20Tre%20University%20-%20Master%20in%20IT%20Governance.md)** - 2009-2011
+- **[IBM and Roma Tre University - Master in IT Governance](./docs/professional-development/master-it-governance.md)** - 2009-2011
   - Academic-industry partnership between IBM Italia, Formit Servizi, and Università degli Studi Roma Tre
   - Master di II livello in Governo dei Sistemi Informativi (IT Governance: Development, Management, and Monitoring)
   - Completed April 15, 2011, integrating academic rigor with IBM's enterprise IT governance expertise
 
 ### Professional Development & Certifications
 
-- **[IBM IT Specialist Profession Certification](./IBM%20IT%20Specialist%20Profession%20Certification.md)** - December 14, 2009
+- **[IBM IT Specialist Profession Certification](./docs/certifications/ibm-it-specialist-profession.md)** - December 14, 2009
   - Documentation of IBM IT Specialist Profession and The Open Group Master Certified IT Specialist dual certification, representing enterprise-level professional credentials during the late 2000s.
 
-- **[IBM Certification Program](./IBM%20Certification%20Program.md)** - April 2008 - February 2013
+- **[IBM Certification Program](./docs/certifications/ibm-certification-program.md)** - April 2008 - February 2013
   - Documentation of 11 IBM Professional Certifications spanning Tivoli software, cloud infrastructure, and strategic technologies.
 
-- **[IBM Technical Sales Professional Certificates](./IBM%20Technical%20Sales%20Professional%20Certificates.md)** - February 2008 - March 2012
+- **[IBM Technical Sales Professional Certificates](./docs/certifications/technical-sales-certificates.md)** - February 2008 - March 2012
   - Record of 12 IBM Technical Sales Professional certifications across Tivoli, Information Management, Lotus, and Industry Solutions product lines.
 
-- **[IBM Internal Professional Development Courses](./IBM%20Internal%20Professional%20Development%20Courses.md)** - October 2006 - March 2013
+- **[IBM Internal Professional Development Courses](./docs/professional-development/internal-courses.md)** - October 2006 - March 2013
   - Record of 35 IBM Internal Professional Development Courses covering leadership, infrastructure, cloud technologies, security, and business skills.
 
-- **[IBM Other Professional Activities and Certifications](./IBM%20Other%20Professional%20Activities%20and%20Certifications.md)** - October 2006 - November 2009
+- **[IBM Other Professional Activities and Certifications](./docs/certifications/other-professional-activities.md)** - October 2006 - November 2009
   - Documentation of external professional certifications and industry participation, including EXIN, ITIL v3, ISO/IEC 20000, Check Point security, and iSMF conference engagement.
 
 ## Assets
 
-The `assets` folder is organized into subdirectories:
+The `assets` folder is organized into subdirectories for better organization:
 
-### Images (`assets/images/`)
+### Images
+
+**Certifications** (`assets/images/certifications/`)
 - `ibm-professional-certifications-overview.png` - Professional certifications overview
-- `ibm-colleagues-photo-1.jpg` - IBM colleagues and team collaboration
-- `ibm-colleagues-photo-2.jpg` - IBM team members across international locations
-- `ibm-employment-timeline.png` - IBM employment history across three regions (Italy, Dubai, Australia)
-- `roma-tre-university-logo.png` - Università degli Studi Roma Tre logo
-- `master-itgov-certificate.png` - Master in IT Governance certificate (April 15, 2011)
-- `thoughts-on-cloud-banner.png` - Thoughts on Cloud header image
-- `openstack-folsom-architecture.png` - OpenStack Folsom architecture diagram
-- `openstack-ha-architecture.jpg` - OpenStack HA architecture diagram
-- `openstack-lbaas-architecture.jpg` - OpenStack LBaaS architecture diagram
-- `ibm-redbooks-banner.jpg` - IBM Redbooks header image
 - `ibm-certification-program-logos.png` - IBM Certification Program logos
 - `ibm-it-specialist-profession-cert.jpg` - IBM IT Specialist Profession and Open Group Master IT Specialist certificates
-- `marco-celon-photo.jpg` - Author photo
 - `ibm-internal-certs-page1.png` - IBM Internal Training Certificates (Page 1)
 - `ibm-internal-certs-page2.png` - IBM Internal Training Certificates (Page 2)
 - `ibm-internal-certs-page3.png` - IBM Internal Training Certificates (Page 3)
 - `ibm-other-professional-activities.png` - External professional certifications and activities (EXIN, ITIL, ISO/IEC 20000, Check Point, iSMF)
 
-### Files (`assets/files/`)
+**Colleagues** (`assets/images/colleagues/`)
+- `ibm-colleagues-photo-1.jpg` - IBM colleagues and team collaboration
+- `ibm-colleagues-photo-2.jpg` - IBM team members across international locations
+- `marco-celon-photo.jpg` - Author photo
+
+**Architecture** (`assets/images/architecture/`)
+- `openstack-folsom-architecture.png` - OpenStack Folsom architecture diagram
+- `openstack-ha-architecture.jpg` - OpenStack HA architecture diagram
+- `openstack-lbaas-architecture.jpg` - OpenStack LBaaS architecture diagram
+
+**Logos** (`assets/images/logos/`)
+- `roma-tre-university-logo.png` - Università degli Studi Roma Tre logo
+- `thoughts-on-cloud-banner.png` - Thoughts on Cloud header image
+- `ibm-redbooks-banner.jpg` - IBM Redbooks header image
+
+**Other** (`assets/images/`)
+- `ibm-employment-timeline.png` - IBM employment history across three regions (Italy, Dubai, Australia)
+- `master-itgov-certificate.png` - Master in IT Governance certificate (April 15, 2011)
+
+### Files
+
+**Publications** (`assets/files/publications/`)
 - `integrating-tivoli-products.pdf` - IBM Redbook: Integrating Tivoli Products (SG247757)
+
+**Certifications** (`assets/files/certifications/`)
 - `master-itgov-final-thesis.pdf` - Master in IT Governance final thesis document
 
 ## About This Repository

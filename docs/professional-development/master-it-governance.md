@@ -1,8 +1,19 @@
+---
+type: academic-program
+period: 2010-01 to 2011-04
+category: master-degree
+tags: [it-governance, roma-tre, ibm, soa, itil, cobit]
+institution: Università degli Studi Roma Tre
+partners: [IBM Italia, Formit Servizi]
+---
+
 # Master in IT Governance - IBM and Roma Tre University Collaboration
+
+[← Back to README](../../README.md)
 
 <div align="center">
 
-![Roma Tre University Logo](./assets/images/roma-tre-university-logo.png)
+![Roma Tre University Logo](../../assets/images/logos/roma-tre-university-logo.png)
 
 </div>
 
@@ -137,7 +148,7 @@ This collaboration aligned with IBM's broader commitment to:
 
 <div align="center">
 
-![Master in IT Governance Certificate](./assets/images/master-itgov-certificate.png)
+![Master in IT Governance Certificate](../../assets/images/master-itgov-certificate.png)
 
 *Master in IT Governance Certificate - April 15, 2011*
 
