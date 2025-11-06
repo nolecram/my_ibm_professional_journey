@@ -10,7 +10,7 @@ This documentation serves as grateful recognition of that investment and the glo
 
 ![IBM Employment Timeline](./assets/images/ibm-employment-timeline.png)
 
-*IBM Employment History: Italy (Aug 2006 - Jul 2010) | Dubai, UAE (Aug 2010 - Feb 2012) | Australia (Feb 2012 - Dec 2012)*
+*IBM Employment History: Rome, Italy (Aug 2006 - Jul 2010) | Dubai, UAE (Aug 2010 - Feb 2012) | Melbourne, Australia (Feb 2012 - Dec 2012)*
 
 </div>
 
@@ -409,9 +409,9 @@ This documentation serves as grateful recognition of that investment and the glo
 - Transition to cloud computing architecture
 - SmartCloud and cloud infrastructure focus
 
-**IBM Australia Limited, West Pennant Hills, NSW, Australia (February 2012 - December 2012)**
+**IBM Australia Limited, Melbourne, VIC, Australia (February 2012 - December 2012)**
 - ABN 79 000 024 733
-- Postal Address: PO Box 297, West Pennant Hills NSW 2125
+- Location: Melbourne, Victoria
 - Private cloud implementation (Infrastructure on Demand)
 - OpenStack community contributions and blog posts (2012-2013)
 - Australian compliance training:
